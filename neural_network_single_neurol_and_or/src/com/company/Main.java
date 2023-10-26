@@ -22,7 +22,7 @@ public class Main {
 //        };
 
         final double LEARNING_RATE = 0.05;
-        double weights[] = {
+        double[] weights = {
                 Math.random(), Math.random()
 //                0.4, 0.5
         };
